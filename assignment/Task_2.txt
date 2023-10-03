@@ -18,7 +18,6 @@ Initialize_GPIO_Pins(SPI_Config);
 // Initialize SPI Peripheral
 Initialize_SPI(SPI_Config);
 
-// Pseudo code for initializing associated peripherals
 
 // Initialize DMA Controller
 Initialize_DMA();
